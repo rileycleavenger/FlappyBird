@@ -626,6 +626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerScore: 1
   scoreText: {fileID: 2137704734}
+  firstTime: 0
 --- !u!4 &2072833864
 Transform:
   m_ObjectHideFlags: 0
